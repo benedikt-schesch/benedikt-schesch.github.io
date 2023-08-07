@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "b.schesch@gmail.com"
+    email                : "email"
   generatedFields:
     date:
       type               : "date"
@@ -82,16 +82,16 @@ author:
   location         : "Location"
   employer         : "ETH Zurich"
   googlescholar    : "https://scholar.google.com/citations?user=CJCmPasAAAAJ&hl=en"
-  email            :
+  email            : "b.schesch@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   foursquare       :
-  github           : "https://github.com/benedikt-schesch"
+  github           : "benedikt-schesch"
   keybase          :
-  linkedin         : "https://www.linkedin.com/in/benedikt-schesch-563a46143"
+  linkedin         : "benedikt-schesch"
   twitter          : "BenediktSchesch"
   youtube          :
 
