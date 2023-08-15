@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master in Computer Science student at ETH Zurich. I mostly do research in Machine Learning but I am more broadly interested in both software engineering and combinatorial optimization problems. Feel free to contact me if you have any questions.
+I am pursuing my Master's in Computer Science at ETH Zurich. My primary research focus is on Machine Learning, but I also have a keen interest in software engineering and combinatorial optimization problems. Please feel free to contact me if you have any questions.
