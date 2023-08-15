@@ -1,5 +1,5 @@
 ---
-title: "Agent-based graph neural networks"
+title: "Agent based graph neural networks"
 collection: publications
 permalink: /publication/agent-based-graph-neural-networks
 excerpt: 'This paper is about the use of agents that learn to navigate graphs intelligently.`
