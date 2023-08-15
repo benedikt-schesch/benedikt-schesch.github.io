@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Benedikt Schesch"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Zurich, Switzerland"
   employer         : "ETH Zurich"
   googlescholar    : "https://scholar.google.com/citations?user=CJCmPasAAAAJ&hl=en"
